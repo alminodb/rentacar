@@ -1,0 +1,8 @@
+[INFORMACIJE O KORISNIKU]
+Username= almin111
+Password= almin
+Ime= Almin
+Prezime= Odobasic
+Grad= Banja_Luka
+Godiste= 2001
+Admin= 1

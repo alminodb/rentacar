@@ -1,0 +1,24 @@
+[PODACI O VOZILU]
+Proizvodjac= Audi
+Model= A6
+Boja= Siva
+Gorivo= DIZEL
+Tip= LIMUZINA
+Transmisija= AUTOMATIK
+Pogon= SVACETIRI
+Godiste= 2012
+BrojVrata= 5
+Kilowati= 165
+Kilometraza= 130000
+Sjedista= 5
+Kubikaza= 3.0
+Cijena= 72.8
+Klima= true
+Tempomat= true
+Navigacija= true
+Rentano= false
+DatumRenta= 1623151849
+DatumIsteka= 1623324649
+Rentao= 
+Placeno= 0
+Dani= 0

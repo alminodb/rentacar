@@ -1,0 +1,24 @@
+[PODACI O VOZILU]
+Proizvodjac= Mercedes
+Model= c220
+Boja= Siva
+Gorivo= DIZEL
+Tip= LIMUZINA
+Transmisija= MANUELNI
+Pogon= ZADNJI
+Godiste= 2001
+BrojVrata= 5
+Kilowati= 85
+Kilometraza= 300000
+Sjedista= 5
+Kubikaza= 2.2
+Cijena= 62.31
+Klima= true
+Tempomat= true
+Navigacija= false
+Rentano= false
+DatumRenta= 10
+DatumIsteka= 1548912
+Rentao= 
+Placeno= 0
+Dani= 0

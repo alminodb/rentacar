@@ -1,0 +1,8 @@
+Svi fajlovi moraju biti organizovani kao sto su organizovani trenutno. 
+Obavezan "Korisnici" i "Vozila" folder kao i "table" header fajl.
+Ukoliko se javi greska sa "table" fajlom pokusajte otvoriti taj fajl i sacuvati ga.
+Program treba kompajlirati. Source code = "Rent-A-Car.cpp".
+Trenutno se kreirani neki korisnici i vozila i program je spreman za upotrebu.
+Za davanje administratorske pozicije za novog korisnika moguce je to uraditi na dva nacina:
+1. koristiti prethodno napravljeni account koji ima administratorsku poziciju i pomocu njega dati admina za svoj username
+2. Uraditi to manuelno tako sto cete naci svoj file koji je u formatu *username.txt* i u njemu promijeniti Admin iz 0 u 1

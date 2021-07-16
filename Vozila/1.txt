@@ -1,0 +1,24 @@
+[PODACI O VOZILU]
+Proizvodjac= Golf
+Model= mk4
+Boja= Crvena
+Gorivo= DIZEL
+Tip= KARAVAN
+Transmisija= MANUELNI
+Pogon= PREDNJI
+Godiste= 2002
+BrojVrata= 5
+Kilowati= 74
+Kilometraza= 220000
+Sjedista= 5
+Kubikaza= 1.9
+Cijena= 31.5
+Klima= true
+Tempomat= false
+Navigacija= true
+Rentano= false
+DatumRenta= 1622900008
+DatumIsteka= 1622986408
+Rentao= 
+Placeno= 0
+Dani= 0

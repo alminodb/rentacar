@@ -1,0 +1,24 @@
+[PODACI O VOZILU]
+Proizvodjac= Passat
+Model= 5+
+Boja= Crna
+Gorivo= DIZEL
+Tip= LIMUZINA
+Transmisija= MANUELNI
+Pogon= PREDNJI
+Godiste= 2006
+BrojVrata= 5
+Kilowati= 98
+Kilometraza= 320000
+Sjedista= 5
+Kubikaza= 1.9
+Cijena= 62.3
+Klima= true
+Tempomat= true
+Navigacija= false
+Rentano= false
+DatumRenta= 1623008449
+DatumIsteka= 1623181249
+Rentao= 
+Placeno= 0
+Dani= 0

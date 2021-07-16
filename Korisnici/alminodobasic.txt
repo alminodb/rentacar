@@ -1,0 +1,8 @@
+[INFORMACIJE O KORISNIKU]
+Username= alminodobasic
+Password= odobasic
+Ime= Almin
+Prezime= Odobasic
+Grad= Kakanj
+Godiste= 2001
+Admin= 0

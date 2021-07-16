@@ -1,0 +1,24 @@
+[PODACI O VOZILU]
+Proizvodjac= Passat
+Model= 6
+Boja= Plava
+Gorivo= DIZEL
+Tip= LIMUZINA
+Transmisija= AUTOMATIK
+Pogon= PREDNJI
+Godiste= 2011
+BrojVrata= 5
+Kilowati= 96
+Kilometraza= 250000
+Sjedista= 5
+Kubikaza= 2.0
+Cijena= 52.3
+Klima= true
+Tempomat= true
+Navigacija= true
+Rentano= false
+DatumRenta= 10
+DatumIsteka= 18457200
+Rentao= 
+Placeno= 0
+Dani= 0

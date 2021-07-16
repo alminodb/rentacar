@@ -1,0 +1,32 @@
+[RENT ISTEKAO] Rent istekao za vozilo Audi A6 koje je rentano od strane korisnika almin
+[SKIDANJE ADMINA] Admin almin je skinuo administratorsku poziciju korisniku alminodobasic
+[DODAVANJE VOZILA] Dodato vozilo u bazu: Skoda Octavia
+[SKIDANJE ADMINA] Admin almin je skinuo administratorsku poziciju korisniku almin
+[NOVI ADMIN] Admin almin je dao administratorsku poziciju korisniku almin
+[30.5.2021-19:55:26][SKIDANJE ADMINA] Admin almin je skinuo administratorsku poziciju korisniku almin
+[30.5.121-19:55:54][NOVI ADMIN] Admin almin je dao administratorsku poziciju korisniku almin
+[2.6.2021-12:27][NOVI ADMIN] Admin almin je dao administratorsku poziciju korisniku almin111
+[5.6.2021-12:28][RENT ISTEKAO] Rent istekao za vozilo Skoda Octavia koje je rentano od strane korisnika almin
+[5.6.2021-12:36][RENTANJE VOZILA] Korisnik almin je rentao vozilo Audi A6
+[5.6.2021-15:21][RENTANJE VOZILA] Korisnik almin je rentao vozilo Skoda Octavia
+[5.6.2021-15:22][DODAVANJE VOZILA] Dodato vozilo u bazu: Passat 6
+[5.6.2021-15:33][RENTANJE VOZILA] Korisnik almin je rentao vozilo Passat 6
+[5.6.2021-15:33][RENTANJE VOZILA] Korisnik almin je rentao vozilo Golf mk4
+[6.6.2021-13:30][RENT ISTEKAO] Rent istekao za vozilo Audi A6 koje je rentano od strane korisnika almin
+[6.6.2021-21:11][RENT ISTEKAO] Rent istekao za vozilo Golf mk4 koje je rentano od strane korisnika almin
+[6.6.2021-21:11][RENT ISTEKAO] Rent istekao za vozilo Passat 6 koje je rentano od strane korisnika almin
+[6.6.2021-21:28][DODAVANJE VOZILA] Dodato vozilo u bazu: Golf mk2
+[6.6.2021-21:30][DODAVANJE VOZILA] Dodato vozilo u bazu: Golf mk2
+[6.6.2021-21:30][RENTANJE VOZILA] Korisnik almin je rentao vozilo Golf mk2
+[6.6.2021-21:34][DODAVANJE VOZILA] Dodato vozilo u bazu: Mercedes c220
+[6.6.2021-21:37][DODAVANJE VOZILA] Dodato vozilo u bazu: Passat 6
+[6.6.2021-21:40][DODAVANJE VOZILA] Dodato vozilo u bazu: Passat 5+
+[6.6.2021-21:40][RENTANJE VOZILA] Korisnik almin je rentao vozilo Passat 5+
+[8.6.2021-13:21][REGISTRACIJA] Korisnik se registrovao na username test
+[8.6.2021-13:29][REGISTRACIJA] Korisnik se registrovao na username projekat
+[8.6.2021-13:30][RENTANJE VOZILA] Korisnik projekat je rentao vozilo Audi A6
+[8.6.2021-13:33][DODAVANJE VOZILA] Dodato vozilo u bazu: Mercedes c200
+[8.6.2021-13:34][NOVI ADMIN] Admin almin je dao administratorsku poziciju korisniku projekat
+[11.6.2021-13:35][RENT ISTEKAO] Rent istekao za vozilo Audi A6 koje je rentano od strane korisnika projekat
+[11.6.2021-13:35][RENT ISTEKAO] Rent istekao za vozilo Skoda Octavia koje je rentano od strane korisnika almin
+[11.6.2021-13:35][RENT ISTEKAO] Rent istekao za vozilo Passat 5+ koje je rentano od strane korisnika almin

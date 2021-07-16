@@ -1,0 +1,24 @@
+[PODACI O VOZILU]
+Proizvodjac= Mercedes
+Model= c200
+Boja= Crvena
+Gorivo= BENZIN
+Tip= LIMUZINA
+Transmisija= AUTOMATIK
+Pogon= ZADNJI
+Godiste= 2010
+BrojVrata= 5
+Kilowati= 100
+Kilometraza= 100000
+Sjedista= 5
+Kubikaza= 2.0
+Cijena= 50.5
+Klima= true
+Tempomat= true
+Navigacija= true
+Rentano= false
+DatumRenta= 10
+DatumIsteka= 16490496
+Rentao= 
+Placeno= 0
+Dani= 0

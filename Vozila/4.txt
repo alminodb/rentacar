@@ -1,0 +1,24 @@
+[PODACI O VOZILU]
+Proizvodjac= Skoda
+Model= Octavia
+Boja= Siva
+Gorivo= DIZEL
+Tip= LIMUZINA
+Transmisija= MANUELNI
+Pogon= PREDNJI
+Godiste= 2007
+BrojVrata= 5
+Kilowati= 77
+Kilometraza= 240000
+Sjedista= 5
+Kubikaza= 1.9
+Cijena= 36.23
+Klima= true
+Tempomat= false
+Navigacija= false
+Rentano= false
+DatumRenta= 1622899316
+DatumIsteka= 1623331316
+Rentao= 
+Placeno= 0
+Dani= 0

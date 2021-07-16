@@ -1,0 +1,8 @@
+[INFORMACIJE O KORISNIKU]
+Username= projekat
+Password= projekat2
+Ime= Projekat
+Prezime= Projekat
+Grad= Kakanj
+Godiste= 2000
+Admin= 1

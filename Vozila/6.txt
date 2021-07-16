@@ -1,0 +1,24 @@
+[PODACI O VOZILU]
+Proizvodjac= Golf
+Model= mk2
+Boja= Crvena
+Gorivo= DIZEL
+Tip= LIMUZINA
+Transmisija= MANUELNI
+Pogon= PREDNJI
+Godiste= 1991
+BrojVrata= 5
+Kilowati= 54
+Kilometraza= 892231
+Sjedista= 5
+Kubikaza= 1.6
+Cijena= 112.123
+Klima= false
+Tempomat= false
+Navigacija= false
+Rentano= false
+DatumRenta= 10
+DatumIsteka= 17342704
+Rentao= 
+Placeno= 0
+Dani= 0
